@@ -7,7 +7,7 @@ When I first started analysing education data, I was surprised by the staggering
 
 <img src="images/Tableau dahboard.png"/>
 
-[**CLICK HERE** = Tableau Dashboard](https://public.tableau.com/app/profile/haziq.abdul.wahab/viz/MassachusettsEducationOverview_17481138494350/MassachusettsEducationOverview).
+[CLICK HERE = Tableau Dashboard](https://public.tableau.com/app/profile/haziq.abdul.wahab/viz/MassachusettsEducationOverview_17481138494350/MassachusettsEducationOverview).
 
 <video width="640" height="360" controls>
   <source src="Untitled video 1.mp4">
