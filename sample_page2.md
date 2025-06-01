@@ -4,7 +4,7 @@
 
 When I first started analysing education data, I was surprised by the staggering number of students who didn't graduate. Over **162,000** young people in **Massachusetts** faced this reality, while more than **791,000** successfully completed their high school journey. These numbers made me reflect deeply
 
-#### Tableau Dashboard
+### Tableau Dashboard
 
 <img src="images/Tableau dahboard.png"/>
 
@@ -20,20 +20,25 @@ When I first started analysing education data, I was surprised by the staggering
 I was driven to tackle this project because I truly believe that **education is one of the most powerful steps toward a better future**. I wanted to understand how different elements, like **class size** and the **economic background** of students, influence graduation rates. This project felt personal to me not only because I cherish education, but because I want to contribute to **meaningful changes** that can help students succeed.
 
 
-### What Readers Will Gain:
+### What Readers Will Gain
 
 In reading this article, I hope you'll gain insights into the **graduation landscape in Massachusetts**. You’ll learn about the **surprising statistics** surrounding graduates and dropouts, how **economic factors** play a role, and what **schools are excelling or struggling**. I'll also share my thoughts on why we see these patterns and what they might mean for the **future of education**.
 
 
-### Dataset Details:
+### Key Takeaways
 
-The dataset I analysed comes from a case study originally used in an iFood interview, which I found on GitHub. It contains 2,206 rows and 36 columns, detailing various customer attributes such as age, income, total spending, and registration dates. This dataset was perfect for my project as it provided a comprehensive view of customer behavior, allowing me to see how promotions influence their spending.
+- Over **162,137** students in Massachusetts did not graduate last year.
+- The **top five schools** in graduation rates have far fewer economically disadvantaged students **(average of 13%)**.
+- An average class size of 18 might **not significantly impact** student success.
 
-### Analysis Process:
 
-I started by cleaning the dataset to remove any inconsistencies, ensuring the data was ready for analysis. Using Excel, I created various visualisations to uncover spending patterns and relationships. One surprising finding was that only 15% of customers engaged with Campaign 6, yet they drove such significant revenue. This led me to think about marketing strategies and how they could be adjusted to reach more customers effectively.
+### Dataset Details
 
-### Visuals and Insights:
+The data I analysed came directly from the **Massachusetts Department of Education** for the year 2017. It included critical details about **graduation rates, attendance, and average class sizes**. This dataset was particularly suitable because it allowed for a comprehensive view of the challenges faced by students across the state.
+
+### Visuals and Insights
+
+<img src="images/bar chart.png"/>
 
 #### Campaign 6 Performance vs. General Customer Base
 
