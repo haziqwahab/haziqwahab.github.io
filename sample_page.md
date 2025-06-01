@@ -27,6 +27,8 @@ I started by cleaning the dataset to remove any inconsistencies, ensuring the da
 
 <img src="images/Screenshot 2025-05-12 173422.png"/>
 
+The analysis shows that while Campaign 6 attracted fewer customers (311), they spent 63% more on average compared to the general customer base. This indicates an opportunity for businesses to convert more customers to this higher-spending model
+
 ### 4. Provide a basis for further data collection through surveys or experiments
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
