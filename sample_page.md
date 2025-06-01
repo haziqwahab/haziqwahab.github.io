@@ -6,9 +6,14 @@
 
 In this article, you'll learn about the effectiveness of DoorDash's promotional strategies based on my analysis. I’ll share key insights about customer spending behaviors, the demographics that drive revenue, and how businesses can better target their marketing efforts based on what the data shows
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Key Takeaways:
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Campaign 6 drew in higher-value customers who spent 63% more than average.
+Only 15% of customers responded to this campaign, indicating there's room for growth.
+Higher-income customers are more likely to spend more, highlighting a target market.
+A small group of customers contributes significantly to total revenue, while the majority spend modestly.
+
+Dataset Details:
 
 ```javascript
 if (isAwesome){
