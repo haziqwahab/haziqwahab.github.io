@@ -8,6 +8,8 @@ When I first started analysing education data, I was surprised by the staggering
 
 <img src="images/Tableau dahboard.png"/>
 
+[Tableau Dashboard](https://profiles.doe.mass.edu/statereport/).
+
 <video width="640" height="360" controls>
   <source src="Untitled video 1.mp4">
   Your browser does not support the video tag.
