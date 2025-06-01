@@ -13,19 +13,17 @@ When I first started analysing education data, I was surprised by the staggering
   Your browser does not support the video tag.
 </video>
 
+<br><br>
 
 ### Why THIS Project?
 
-As someone who relies on food delivery due to my hectic schedule, I’ve always been fascinated by how food delivery companies run their promotional campaigns, especially since I often see them targeting new users with exciting discounts. My interest grew when I noticed that many of my friends and colleagues would use these promotions only to return to their old habits afterward. I wanted to find out if these campaigns truly make a lasting impact or just create a quick spike in orders. So, I decided to dig into the data and see what I could find.
+I was driven to tackle this project because I truly believe that **education is one of the most powerful steps toward a better future**. I wanted to understand how different elements, like **class size** and the **economic background** of students, influence graduation rates. This project felt personal to me not only because I cherish education, but because I want to contribute to **meaningful changes** that can help students succeed.
 
-In this article, you'll learn about the effectiveness of DoorDash's promotional strategies based on my analysis. I’ll share key insights about customer spending behaviors, the demographics that drive revenue, and how businesses can better target their marketing efforts based on what the data shows
 
-### Key Takeaways:
+### What Readers Will Gain:
 
-- **Campaign 6** drew in higher-value customers who spent **63% more** than average.
-- Only **15%** of customers responded to this campaign, indicating there's room for growth.
-- **Higher-income customers** are more likely to spend more, highlighting a target market.
-- A **small group** of customers contributes significantly to total revenue, while the **majority spend modestly**.
+In reading this article, I hope you'll gain insights into the **graduation landscape in Massachusetts**. You’ll learn about the **surprising statistics** surrounding graduates and dropouts, how **economic factors** play a role, and what **schools are excelling or struggling**. I'll also share my thoughts on why we see these patterns and what they might mean for the **future of education**.
+
 
 ### Dataset Details:
 
