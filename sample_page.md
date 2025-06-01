@@ -47,7 +47,7 @@ The histogram reveals a steep drop-off in customer spending. Most customers spen
 
 #### Customer Spending by Number of Children Analysis 
 
-<img src="<img src="images/Screenshot 2025-05-12 173923.png"/>"/>
+<img src="images/Screenshot 2025-05-12 173923.png"/>
 
 I found that child-free customers tend to spend five times more than parents. With 207 child-free customers and a total spending of $260,428, it’s clear they form a premium segment worth targeting. This insight suggests that marketing campaigns could be tailored specifically to appeal to these customers.
 
