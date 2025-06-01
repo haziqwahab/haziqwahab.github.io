@@ -1,6 +1,13 @@
-## How DoorDash’s Promotions Can Turn Casual Customers into Loyal Fans
+## What Massachusetts' Education Data Tells Us About Graduation Rates
 
-**Software : Excel**
+**Software : Tableau**
+
+When I first started analysing education data, I was surprised by the staggering number of students who didn't graduate. Over **162,000** young people in **Massachusetts** faced this reality, while more than **791,000** successfully completed their high school journey. These numbers made me reflect deeply
+
+#### Tableau Dashboard
+
+<img src="images/Tableau dahboard.png"/>
+
 
 ### Why THIS Project?
 
