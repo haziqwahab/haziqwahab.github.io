@@ -1,6 +1,10 @@
-## This can be your internal website page / project page
+## How DoorDash’s Promotions Can Turn Casual Customers into Loyal Fans
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Why THIS Project?
+
+**Project description:** As someone who relies on food delivery due to my hectic schedule, I’ve always been fascinated by how food delivery companies run their promotional campaigns, especially since I often see them targeting new users with exciting discounts. My interest grew when I noticed that many of my friends and colleagues would use these promotions only to return to their old habits afterward. I wanted to find out if these campaigns truly make a lasting impact or just create a quick spike in orders. So, I decided to dig into the data and see what I could find.
+
+In this article, you'll learn about the effectiveness of DoorDash's promotional strategies based on my analysis. I’ll share key insights about customer spending behaviors, the demographics that drive revenue, and how businesses can better target their marketing efforts based on what the data shows
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
