@@ -13,23 +13,18 @@ In this article, you'll learn about the effectiveness of DoorDash's promotional 
 - **Higher-income customers** are more likely to spend more, highlighting a target market.
 - A **small group** of customers contributes significantly to total revenue, while the **majority spend modestly**.
 
-Dataset Details:
+### Dataset Details:
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+The dataset I analysed comes from a case study originally used in an iFood interview, which I found on GitHub. It contains 2,206 rows and 36 columns, detailing various customer attributes such as age, income, total spending, and registration dates. This dataset was perfect for my project as it provided a comprehensive view of customer behavior, allowing me to see how promotions influence their spending.
 
-### 2. Assess assumptions on which statistical inference will be based
+### Analysis Process:
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+I started by cleaning the dataset to remove any inconsistencies, ensuring the data was ready for analysis. Using Excel, I created various visualisations to uncover spending patterns and relationships. One surprising finding was that only 15% of customers engaged with Campaign 6, yet they drove such significant revenue. This led me to think about marketing strategies and how they could be adjusted to reach more customers effectively.
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### Visuals and Insights:
+
+#### Campaign 6 Performance vs. General Customer Base
+
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
