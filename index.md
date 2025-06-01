@@ -2,14 +2,14 @@
 
 ---
 
-### Lean About My Projects
+### Learn About My Projects
 
 [How DoorDash’s Promotions Can Turn Casual Customers into Loyal Fans](/sample_page)
 <img src="images/Light Blue Purple and Black Illustration Food Delivery Presentation.jpg"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[What Massachusetts' Education Data Tells Us About Graduation Rates](/pdf/sample_presentation.pdf)
+<img src="images/Blue and White Modern Illustrative Thesis Defense Presentation.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)
