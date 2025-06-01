@@ -1,6 +1,6 @@
 ## How DoorDash’s Promotions Can Turn Casual Customers into Loyal Fans
 
-**Software : Excel**
+#### Software : Excel
 
 ### Why THIS Project?
 
