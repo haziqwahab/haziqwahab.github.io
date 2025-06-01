@@ -65,4 +65,4 @@ I found that child-free customers tend to spend five times more than parents. Wi
 This analysis taught me a lot about the importance of data in driving business decisions. One challenge I faced was determining which visualisations would best convey my findings, but with some trial and error, I found ways to make the data clear and engaging. This project has shifted my perspective on how businesses can utilise customer data to refine their marketing strategies. I’m excited to see how these insights can be applied in future projects.
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Data Set](https://guides.github.com/features/mastering-markdown/).
