@@ -8,7 +8,7 @@
 <img src="images/Light Blue Purple and Black Illustration Food Delivery Presentation.jpg"/>
 
 ---
-[What Massachusetts' Education Data Tells Us About Graduation Rates](/pdf/sample_presentation.pdf)
+[What Massachusetts' Education Data Tells Us About Graduation Rates](sample_page2.md)
 <img src="images/Blue and White Modern Illustrative Thesis Defense Presentation.jpg"/>
 
 ---
