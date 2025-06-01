@@ -68,9 +68,9 @@ In summary, the analysis highlighted some key aspects of education in Massachuse
 This project was eye-opening for me. It reminded me that behind every statistic are real students and families who are affected by these challenges. I faced difficulties with data organisation but learned the importance of patience and thoroughness. I feel more motivated than ever to advocate for changes that can help improve education for all.
 
 
-### Call To Action
+### Call to Action
 
 If you found this information valuable, I encourage you to connect with me on LinkedIn. I would love to discuss your thoughts on education, share insights, or explore potential opportunities. If you or someone you know is looking to hire a data analyst, let’s talk! Feel free to leave a comment or ask questions I’m eager to hear from you!
 
 
-This data is real data taken from Massachusetts Department of Education Website [The reports can be found here]([https://guides.github.com/features/mastering-markdown/](https://profiles.doe.mass.edu/statereport/)).
+This data is real data taken from Massachusetts Department of Education Website [The reports can be found here](https://guides.github.com/features/mastering-markdown/](https://profiles.doe.mass.edu/statereport/).
