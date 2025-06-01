@@ -25,8 +25,7 @@ I started by cleaning the dataset to remove any inconsistencies, ensuring the da
 
 #### Campaign 6 Performance vs. General Customer Base
 
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot 2025-05-12 173422.png"/>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
