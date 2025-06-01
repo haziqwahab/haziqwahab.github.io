@@ -29,8 +29,38 @@ I started by cleaning the dataset to remove any inconsistencies, ensuring the da
 
 The analysis shows that while Campaign 6 attracted fewer customers (311), they spent 63% more on average compared to the general customer base. This indicates an opportunity for businesses to convert more customers to this higher-spending model
 
-### 4. Provide a basis for further data collection through surveys or experiments
+<img src="images/picture 3.png"/>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The chart shows customer acquisition peaks in **January**, **March**, **July**, and **August**, likely due to effective campaigns or seasonal trends. In contrast, **November** and **December** have the lowest numbers, suggesting room for improved engagement. Mid-year months show steady growth. Overall, the data highlights key periods of success and opportunities for targeted improvements.
+
+#### Income vs. Total Spent (Scatter Plot)
+
+<img src="images/Picture1.png"/>
+
+This scatter plot shows a strong positive correlation **(R² = 0.67)** between customer income and spending. It confirms that higher-income customers are more likely to spend more. For businesses, this means marketing efforts should focus on individuals with incomes above $60,000, who are likely to contribute more revenue.
+
+#### Histogram Analysis: Customer Spending Distribution
+
+<img src="images/Picture2.png"/>
+
+The histogram reveals a steep drop-off in customer spending. Most customers spend between $4 and $833, with only a small fraction reaching higher tiers. This shows that while many customers make frequent orders, a select few drive most of the revenue. A focus on encouraging moderate spenders to increase their order sizes could be beneficial.
+
+#### Customer Spending by Number of Children Analysis 
+
+<img src="<img src="images/Screenshot 2025-05-12 173923.png"/>"/>
+
+I found that child-free customers tend to spend five times more than parents. With 207 child-free customers and a total spending of $260,428, it’s clear they form a premium segment worth targeting. This insight suggests that marketing campaigns could be tailored specifically to appeal to these customers.
+
+### Main Takeaways:
+
+- **Campaign 6 Works** – It successfully attracts customers who spend significantly more.
+- **Untapped Potential** – With only 15% of customers responding, there’s considerable opportunity to engage a larger audience.
+- **Data-Driven Strategy** – Understanding income and family status can help in targeting the right customers more effectively.
+- **Quick Wins Available** – Small changes, like offering VIP perks for top spenders, could quickly enhance revenue.
+
+### Conclusion and Personal Reflections:
+
+This analysis taught me a lot about the importance of data in driving business decisions. One challenge I faced was determining which visualisations would best convey my findings, but with some trial and error, I found ways to make the data clear and engaging. This project has shifted my perspective on how businesses can utilise customer data to refine their marketing strategies. I’m excited to see how these insights can be applied in future projects.
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
