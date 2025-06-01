@@ -1,11 +1,11 @@
-## Portfolio
+## Welcome to My Portfolio
 
 ---
 
-### Category Name 1 
+### Lean About My Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[How DoorDash’s Promotions Can Turn Casual Customers into Loyal Fans](/sample_page)
+<img src="images/Light Blue Purple and Black Illustration Food Delivery Presentation.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
