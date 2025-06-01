@@ -1,5 +1,7 @@
 ## How DoorDash’s Promotions Can Turn Casual Customers into Loyal Fans
 
+**Software : Excel**
+
 ### Why THIS Project?
 
 As someone who relies on food delivery due to my hectic schedule, I’ve always been fascinated by how food delivery companies run their promotional campaigns, especially since I often see them targeting new users with exciting discounts. My interest grew when I noticed that many of my friends and colleagues would use these promotions only to return to their old habits afterward. I wanted to find out if these campaigns truly make a lasting impact or just create a quick spike in orders. So, I decided to dig into the data and see what I could find.
