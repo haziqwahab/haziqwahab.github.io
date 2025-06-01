@@ -8,10 +8,10 @@ In this article, you'll learn about the effectiveness of DoorDash's promotional 
 
 ### Key Takeaways:
 
--Campaign 6 drew in higher-value customers who spent 63% more than average.
--Only 15% of customers responded to this campaign, indicating there's room for growth.
--Higher-income customers are more likely to spend more, highlighting a target market.
--A small group of customers contributes significantly to total revenue, while the majority spend modestly.
+- **Campaign 6** drew in higher-value customers who spent **63% more** than average.
+- Only **15%** of customers responded to this campaign, indicating there's room for growth.
+- **Higher-income customers** are more likely to spend more, highlighting a target market.
+- A **small group** of customers contributes significantly to total revenue, while the **majority spend modestly**.
 
 Dataset Details:
 
