@@ -73,4 +73,4 @@ This project was eye-opening for me. It reminded me that behind every statistic 
 If you found this information valuable, I encourage you to connect with me on LinkedIn. I would love to discuss your thoughts on education, share insights, or explore potential opportunities. If you or someone you know is looking to hire a data analyst, let’s talk! Feel free to leave a comment or ask questions I’m eager to hear from you!
 
 
-This data is REAL data taken from Massachusetts Department of Education Website [The reports can be found here]([https://guides.github.com/features/mastering-markdown/](https://profiles.doe.mass.edu/statereport/)).
+This data is real data taken from Massachusetts Department of Education Website [The reports can be found here]([https://guides.github.com/features/mastering-markdown/](https://profiles.doe.mass.edu/statereport/)).
