@@ -52,11 +52,11 @@ One striking visual showed that **schools with the lowest graduation** rates had
 
 The top five districts in fourth-grade math proficiency have **surpassed the average passing threshold of 50%**. It will be important to reach out to these schools within the districts to understand how they are supporting their students' success.
 
-#### Main Takeaways
+### Main Takeaways
 
 In summary, the analysis highlighted some key aspects of education in Massachusetts that require attention:
 
-## Conclusion and Perspective
+### Conclusion and Perspective
 
 - A significant number of students are not graduating, indicating a **need for targeted support**.
 - Schools serving **economically disadvantaged** students often show **lower graduation rates**.
