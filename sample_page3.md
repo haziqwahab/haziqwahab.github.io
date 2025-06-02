@@ -61,7 +61,7 @@ description
 
 description
 
-<img src="images/carbon borrower.png"/>
+<img src="images/carbon borrower 2.png"/>
 <img src="images/borrower.png"/>
 
 description
