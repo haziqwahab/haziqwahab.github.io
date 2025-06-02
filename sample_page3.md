@@ -7,7 +7,7 @@ When I first delved into the world of international loans, I had no idea how sur
 
 <img src=""/>
 
-The origin of the data can be found[here](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976).
+The origin of the data can be found [here](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976).
 
 ### Why THIS Project?
 
@@ -21,9 +21,9 @@ As you read through this article, you’ll learn about the most significant loan
 
 ### Key Takeaways
 
-- 🇮🇳 **India** has the **highest debt** – over **$793 million** from **58,339 loans**.
-- 🇹🇿 **Tanzania** is the **most recent country** to **repay its loans**.
-- 📊 There are **over 1 million transactions**, showing strong global use of **IDA loans**.
-- 🇳🇮 **Nicaragua** stands out with a **massive loan total** of nearly **$85 billion**.
-- ⚖️ There’s a **big gap between top and low borrowers**, reflecting **varying development needs** across countries.
+- **India** has the **highest debt** – over **$793 million** from **58,339 loans**.
+- **Tanzania** is the **most recent country** to **repay its loans**.
+- There are **over 1 million transactions**, showing strong global use of **IDA loans**.
+- **Nicaragua** stands out with a **massive loan total** of nearly **$85 billion**.
+- There’s a **big gap between top and low borrowers**, reflecting **varying development needs** across countries.
 
