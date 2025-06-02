@@ -7,8 +7,6 @@ When I first delved into the world of international loans, I had no idea how sur
 
 <img src="images/international-development-association-203414 - Copy.jpg"/>
 
-The origin of the data can be found [here](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976).
-
 ### Why THIS Project?
 
 My motivation for this project stemmed from a personal interest in understanding how financial support from the World Bank affects countries in need. The IDA plays a crucial role in providing low-interest loans and grants to countries that require assistance in developing their infrastructure and economies. I wanted to see who benefits from this system and how effectively the funds are being used. Diving into this data felt like peeling back the layers of a complex puzzle, and I was eager to see what I would find.
