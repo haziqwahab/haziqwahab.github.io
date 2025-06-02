@@ -34,7 +34,9 @@ The origin of the data can be found [here](https://financesone.worldbank.org/ida
 
 ### Analysis Process & Key Insights
 
-I began my analysis by **cleaning the data** to ensure accuracy, then moved on to **querying it using SQL**. My queries focused on identifying patterns in **loan amounts**, **repayment rates**, and **transaction counts**.One surprising finding was the **high level of activity**—with **over 1 million transactions**, many countries showed a strong commitment to development through IDA loans. When I examined **Nicaragua**, I nearly fell off my chair at the total loan amount **nearly $85 billion**! This raised an important question in my mind:  
+I began my analysis by **cleaning the data** to ensure accuracy, then moved on to **querying it using SQL**. My queries focused on identifying patterns in **loan amounts**, **repayment rates**, and **transaction counts**.One surprising finding was the **high level of activity**—with **over 1 million transactions**, many countries showed a strong commitment to development through IDA loans. When I examined **Nicaragua**, I nearly fell off my chair at the total loan amount **nearly $85 billion**! 
+
+This raised an important question in my mind:  
 **Should there be a cap on how much a single country can borrow?**
 
 
