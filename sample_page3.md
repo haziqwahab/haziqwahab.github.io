@@ -61,6 +61,12 @@ description
 
 description
 
+<img src="images/carbon borrower.png"/>
+<img src="images/borrower.png"/>
+
+description
+
+
 ### Main Takeaways
 
 - **India emerges as the clear leader in borrowing**, but this raises questions about **sustainability** and the **long-term implications** of such high debt levels.  
