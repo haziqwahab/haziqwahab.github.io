@@ -12,7 +12,7 @@
 <img src="images/Blue and White Modern Illustrative Thesis Defense Presentation.jpg"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Unpacking IDA Loans: Insights from the World Bank Data](sample_page3.md)
 <img src="images/Blue 3D Illustration Simple Financial Planning Presentation.jpg"/>
 
 ---
