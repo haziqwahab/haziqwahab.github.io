@@ -42,4 +42,43 @@ This raised an important question in my mind:
 
 ### Visual and Insights
 
+<img src="images/carbon total transaction.png"/>
+<img src="images/total transaction.png"/>
+
+description
+
+
+<img src="images/carbon nicaragua.png"/>
+<img src="images/nicaragua.png"/>
+
+description
+
+
+
+
+### Main Takeaways
+
+- **India emerges as the clear leader in borrowing**, but this raises questions about **sustainability** and the **long-term implications** of such high debt levels.  
+- The **activity level among borrowers** suggests a **willingness to invest in development**, but also invites **scrutiny** over how these funds are being utilized.  
+- The **disparity in borrowing amounts among countries** indicates that there is **much more to investigate** regarding the **needs and capabilities of different regions**.
+
+### Main Takeaways
+
+his project taught me so much about the **dynamics of international finance** and the **significant impact of loans on development**.  
+One of the biggest challenges was understanding the **vast differences in how countries manage their debt**.  
+I was surprised to find such a **wide gap between the highest and lowest borrowers**.  
+This experience has **fueled my curiosity** to explore this topic further and consider how **financial institutions can better support nations in need**.
+
+### Call To Action
+
+I’d love to hear your thoughts on this topic! Feel free to connect with me on LinkedIn, share your insights, or ask any questions you may have about my findings. Let’s keep the conversation going!
+
+
+
+
+
+
+
+
+
 
