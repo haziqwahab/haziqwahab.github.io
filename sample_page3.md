@@ -64,7 +64,7 @@ When examining Nicaragua's data, I was astounded to find that the total of all t
 <img src="images/lower transaction 2.png"/>
 <img src="images/top transaction 1.png"/>
 
-One of the most intriguing tasks was grouping transactions by country, focusing on the top and bottom five in terms of transaction amounts. From this analysis, I discovered that regions like **Ukraine**, **Southeast Asia**, and the **Middle East** are **not utilizing the IDA significantly**. It's clear that Southeast Asia and the **Middle East** are **broad categories**, and breaking them down into individual countries could provide more insights. As previously noted, India leads with the highest number of transactions.
+One of the most intriguing tasks was grouping transactions by country, focusing on the top and bottom five in terms of transaction amounts. From this analysis, I discovered that regions like **Ukraine**, **Southeast Asia**, and the **Middle East** are **not utilizing the IDA significantly**. It's clear that **Southeast Asia** and the **Middle East** are **broad categories**, and breaking them down into individual countries could provide more insights. As previously noted, India leads with the highest number of transactions.
 
 #### The 5 lowest loan amounts by the borrower
 
