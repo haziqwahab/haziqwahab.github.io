@@ -31,9 +31,11 @@ For this project, I used a dataset sourced from the World Bank, specifically foc
 
 The origin of the data can be found [here](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976).
 
-### Analysis Process
 
-I began my analysis by cleaning the data to ensure accuracy, then moved on to querying it using SQL. This involved looking for patterns in loan amounts, repayment rates, and transaction counts. I was surprised by how active some countries were with their loans—over 1 million transactions indicated a strong commitment to development. When I examined Nicaragua, I nearly fell off my chair at the total loan amount! This led me to ponder whether there should be limits on how much a country can borrow.
+### Analysis Process & Key Insights
+
+I began my analysis by **cleaning the data** to ensure accuracy, then moved on to **querying it using SQL**. My queries focused on identifying patterns in **loan amounts**, **repayment rates**, and **transaction counts**.One surprising finding was the **high level of activity**—with **over 1 million transactions**, many countries showed a strong commitment to development through IDA loans. When I examined **Nicaragua**, I nearly fell off my chair at the total loan amount—**nearly $85 billion**! This raised an important question in my mind:  
+**Should there be a cap on how much a single country can borrow?**
 
 
 ### Visual and Insights
