@@ -42,7 +42,7 @@ This raised an important question in my mind:
 
 ### Visual and Insights
 
-#### Total transacrtion
+#### Total transaction
 
 <img src="images/carbon total transaction.png"/>
 <img src="images/total transaction.png"/>
