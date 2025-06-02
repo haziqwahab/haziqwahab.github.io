@@ -67,12 +67,9 @@ description
 - The **activity level among borrowers** suggests a **willingness to invest in development**, but also invites **scrutiny** over how these funds are being utilized.  
 - The **disparity in borrowing amounts among countries** indicates that there is **much more to investigate** regarding the **needs and capabilities of different regions**.
 
-### Main Takeaways
+### Conclusion and Personal Reflections
 
-his project taught me so much about the **dynamics of international finance** and the **significant impact of loans on development**.  
-One of the biggest challenges was understanding the **vast differences in how countries manage their debt**.  
-I was surprised to find such a **wide gap between the highest and lowest borrowers**.  
-This experience has **fueled my curiosity** to explore this topic further and consider how **financial institutions can better support nations in need**.
+This project taught me so much about the **dynamics of international finance** and the **significant impact of loans on development**. One of the biggest challenges was understanding the **vast differences in how countries manage their debt**. I was surprised to find such a **wide gap between the highest and lowest borrowers**. This experience has **fueled my curiosity** to explore this topic further and consider how **financial institutions can better support nations in need**.
 
 ### Call To Action
 
