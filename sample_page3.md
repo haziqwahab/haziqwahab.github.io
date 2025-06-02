@@ -27,3 +27,17 @@ As you read through this article, you’ll learn about the most significant loan
 - **Nicaragua** stands out with a **massive loan total** of nearly **$85 billion**.
 - There’s a **big gap between top and low borrowers**, reflecting **varying development needs** across countries.
 
+### Dataset Details
+
+For this project, I used a dataset sourced from the World Bank, specifically focusing on the IDA's credits and grants as of November 2022. This data provided a clear snapshot of the borrowing landscape across various countries. It was crucial to ensure that the data was both comprehensive and representative of the trends I wanted to explore.
+
+The origin of the data can be found [here](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976).
+
+### Analysis Process
+
+I began my analysis by cleaning the data to ensure accuracy, then moved on to querying it using SQL. This involved looking for patterns in loan amounts, repayment rates, and transaction counts. I was surprised by how active some countries were with their loans—over 1 million transactions indicated a strong commitment to development. When I examined Nicaragua, I nearly fell off my chair at the total loan amount! This led me to ponder whether there should be limits on how much a country can borrow.
+
+
+###Visual and Insights
+
+
