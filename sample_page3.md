@@ -47,14 +47,14 @@ This raised an important question in my mind:
 <img src="images/carbon total transaction.png"/>
 <img src="images/total transaction.png"/>
 
-It's impressive to see the level of activity with 1,109,994 transactions currently recorded. This suggests that countries are actively investing in development and exploring opportunities for growth.
+It's impressive to see the level of activity with **1,109,994 transactions** currently recorded. This suggests that countries are actively investing in development and exploring opportunities for growth.
 
 #### Nicaragua
 
 <img src="images/carbon nicaragua.png"/>
 <img src="images/nicaragua.png"/>
 
-When examining Nicaragua's data, I was astounded to find that the total of all their loan amounts approaches a staggering $85 billion. It raises the question of whether there's a cap on the amount that can be borrowed. If there isn't a limit, perhaps there should be one in place.
+When examining Nicaragua's data, I was astounded to find that the total of all their loan amounts approaches a staggering **$85 billion**. It raises the question of whether there's a cap on the amount that can be borrowed. If there isn't a limit, perhaps there should be one in place.
 
 #### The top and bottom 5 for the transaction amount
 
@@ -64,7 +64,7 @@ When examining Nicaragua's data, I was astounded to find that the total of all t
 <img src="images/lower transaction 2.png"/>
 <img src="images/top transaction 1.png"/>
 
-One of the most intriguing tasks was grouping transactions by country, focusing on the top and bottom five in terms of transaction amounts. From this analysis, I discovered that regions like Ukraine, Southeast Asia, and the Middle East are not utilizing the IDA significantly. It's clear that Southeast Asia and the Middle East are broad categories, and breaking them down into individual countries could provide more insights. As previously noted, India leads with the highest number of transactions.
+One of the most intriguing tasks was grouping transactions by country, focusing on the top and bottom five in terms of transaction amounts. From this analysis, I discovered that regions like **Ukraine**, **Southeast Asia**, and the **Middle East** are **not utilizing the IDA significantly**. It's clear that Southeast Asia and the **Middle East** are **broad categories**, and breaking them down into individual countries could provide more insights. As previously noted, India leads with the highest number of transactions.
 
 #### The 5 lowest loan amounts by the borrower
 
