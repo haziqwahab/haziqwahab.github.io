@@ -38,6 +38,6 @@ The origin of the data can be found [here](https://financesone.worldbank.org/ida
 I began my analysis by cleaning the data to ensure accuracy, then moved on to querying it using SQL. This involved looking for patterns in loan amounts, repayment rates, and transaction counts. I was surprised by how active some countries were with their loans—over 1 million transactions indicated a strong commitment to development. When I examined Nicaragua, I nearly fell off my chair at the total loan amount! This led me to ponder whether there should be limits on how much a country can borrow.
 
 
-###Visual and Insights
+### Visual and Insights
 
 
