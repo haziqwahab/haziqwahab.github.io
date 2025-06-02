@@ -54,12 +54,10 @@ description
 description
 
 <img src="images/carbon top lower transaction.png"/>
-<img src="images/top lower transaction.png"/>
-
-description
-
 <img src="images/carbon top transaction.png"/>
-<img src="images/top transaction.png"/>
+
+<img src="images/lower transaction 2.png"/>
+<img src="images/top transaction 1.png"/>
 
 description
 
