@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-[How DoorDash’s Promotions Can Turn Casual Customers into Loyal Fans](/sample_page)
+[How DoorDash’s Promotions Can Turn Casual Customers into Loyal Fans](DoorDash’s Promotions.md)
 <img src="images/Light Blue Purple and Black Illustration Food Delivery Presentation.jpg"/>
 
 ---
