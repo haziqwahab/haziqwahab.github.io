@@ -2,11 +2,12 @@ title: Haziq Abdul Wahab # your name (or website title) here
 logo: "images/photo_2025-04-29_12-19-07.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 Translating Data To Insightful Stories
-  Analytical-minded graduate architect a strong foundation in data analytics, data visualization, and business intelligence.
-  <br><br>
-  Eager to combine my blend of art and scientific background with statistical analysis to contribute to data-driven organisation.
-  <br><br>
-  <a href="https://www.linkedin.com/in/haziqabdulwahab/">View My LinkedIn Profile</a> 
+<br><br>
+Analytical-minded graduate architect a strong foundation in data analytics, data visualization, and business intelligence.
+<br><br>
+Eager to combine my blend of art and scientific background with statistical analysis to contribute to data-driven organisation.
+<br><br>
+<a href="https://www.linkedin.com/in/haziqabdulwahab/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
