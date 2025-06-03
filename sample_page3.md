@@ -34,13 +34,21 @@ The origin of the data can be found [here](https://financesone.worldbank.org/ida
 
 ### Analysis Process & Key Insights
 
-I began my analysis by **querying the data using SQL**. My queries focused on identifying patterns in **loan amounts**, **repayment rates**, and **transaction counts**.One surprising finding was the **high level of activity** with **over 1 million transactions**, many countries showed a strong commitment to development through IDA loans. When I examined **Nicaragua**, I nearly fell off my chair at the total loan amount **nearly $85 billion**! 
+I began my analysis by **querying the data using SQL**. My queries focused on identifying patterns in **loan amounts**, **repayment rates**, and **transaction counts**. One surprising finding was the **high level of activity** with **over 1 million transactions**, many countries showed a strong commitment to development through IDA loans. When I examined **Nicaragua**, I nearly fell off my chair at the total loan amount **nearly $85 billion**! 
 
 This raised an important question in my mind:  
 **Should there be a cap on how much a single country can borrow?**
 
 
 ### Visual and Insights
+
+
+#### Most amount owed by country
+
+<img src="images/carbon india.png"/>
+<img src="images/india.png"/>
+
+India has both the most amount owed at **$793,256,127.64**
 
 #### Total transaction
 
