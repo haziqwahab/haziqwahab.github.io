@@ -15,18 +15,6 @@
 [Unpacking IDA Loans: Insights from the World Bank Data](sample_page3.md)
 <img src="images/Blue 3D Illustration Simple Financial Planning Presentation.jpg"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
