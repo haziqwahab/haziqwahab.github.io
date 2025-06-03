@@ -48,7 +48,7 @@ This raised an important question in my mind:
 <img src="images/carbon india.png"/>
 <img src="images/india.png"/>
 
-India has both the most amount owed at **$793,256,127.64**
+**India** has both the most amount owed at **$793,256,127.64**
 
 #### Total transaction
 
