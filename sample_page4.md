@@ -31,6 +31,8 @@ Through this article, you will gain insights into hospital readmission trends, u
 
 For this project, I used a dataset sourced from Kaggle, which contains information about diabetes patients from 130 US hospitals between 1999 and 2008. This dataset was perfect for my analysis as it included patient demographics, health history, hospital usage metrics, and outcomes related to readmission risk.
 
+The origin of the data can be found [here](https://www.kaggle.com/code/iabhishekofficial/prediction-on-hospital-readmission/notebook).
+
 ### Visuals and Insights
 
 #### Average length of hospital stays
