@@ -1,5 +1,5 @@
 
-## Unpacking IDA Loans: Insights from the World Bank Data
+## 101,000 Voices: What SQL Reveals About Healthcare Operations
 #### Software : SQL
 
 When I first delved into the world of international loans, I had no idea how surprising the insights could be. Picture this: huge sums of money being lent to countries all around the globe, each transaction telling a story of development, struggle, and hope. This project allowed me to explore this world through data from the World Bank, focusing on their International Development Association (IDA) credits and grants.
