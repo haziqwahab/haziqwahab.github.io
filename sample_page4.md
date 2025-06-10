@@ -71,7 +71,7 @@ I also explored the correlation between **lab procedures** and **hospital durati
 <img src="images/H carbon race.png"/>
 <img src="images/H race.png"/>
 
-By using UNION, I efficiently combined two distinct patient groups while maintaining data integrity. Documenting my query logic and validating key assumptions (like the meaning of 'Up') transformed a simple data pull into reproducible research
+By using **UNION**, I efficiently combined two distinct patient groups while maintaining data integrity. Documenting my query logic and validating key assumptions (like the meaning of 'Up') transformed a simple data pull into reproducible research
 
 #### Admission Details, Medical Specialties, and Procedure Volumes  
 
