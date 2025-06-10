@@ -23,6 +23,11 @@ My motivation for this project stemmed from a personal interest in understanding
 
 My motivation for this project stemmed from a personal interest in understanding how financial support from the World Bank affects countries in need. The IDA plays a crucial role in providing low-interest loans and grants to countries that require assistance in developing their infrastructure and economies. I wanted to see who benefits from this system and how effectively the funds are being used. Diving into this data felt like peeling back the layers of a complex puzzle, and I was eager to see what I would find.
 
+<img src="images/carbon race treatment.png"/>
+<img src="images/H race treatment.png"/>
+
+My motivation for this project stemmed from a personal interest in understanding how financial support from the World Bank affects countries in need. The IDA plays a crucial role in providing low-interest loans and grants to countries that require assistance in developing their infrastructure and economies. I wanted to see who benefits from this system and how effectively the funds are being used. Diving into this data felt like peeling back the layers of a complex puzzle, and I was eager to see what I would find.
+
 <img src="images/H carbon avg time.png"/>
 <img src="images/H avg time.png"/>
 
