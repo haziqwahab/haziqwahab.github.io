@@ -4,20 +4,25 @@
 
 ### Learn About My Projects
 
-[How DoorDash’s Promotions Can Turn Casual Customers into Loyal Fans](sample_page.md)
-<img src="images/Light Blue Purple and Black Illustration Food Delivery Presentation.jpg"/>
+[Unpacking IDA Loans: Insights from the World Bank Data](sample_page4.md)
+<img src="images/Blue and White Simple Modern Medical Presentation.jpg"/>
 
 ---
-[What Massachusetts' Education Data Tells Us About Graduation Rates](sample_page2.md)
-<img src="images/Blue and White Modern Illustrative Thesis Defense Presentation.jpg"/>
 
----
 [Unpacking IDA Loans: Insights from the World Bank Data](sample_page3.md)
 <img src="images/Blue 3D Illustration Simple Financial Planning Presentation.jpg"/>
 
 ---
-[Unpacking IDA Loans: Insights from the World Bank Data](sample_page4.md)
-<img src="images/Blue and White Simple Modern Medical Presentation.jpg"/>
+
+[What Massachusetts' Education Data Tells Us About Graduation Rates](sample_page2.md)
+<img src="images/Blue and White Modern Illustrative Thesis Defense Presentation.jpg"/>
+
+---
+
+[How DoorDash’s Promotions Can Turn Casual Customers into Loyal Fans](sample_page.md)
+<img src="images/Light Blue Purple and Black Illustration Food Delivery Presentation.jpg"/>
+
+
 
 
 
