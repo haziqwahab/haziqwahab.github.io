@@ -5,7 +5,7 @@
 When I first delved into the world of international loans, I had no idea how surprising the insights could be. Picture this: huge sums of money being lent to countries all around the globe, each transaction telling a story of development, struggle, and hope. This project allowed me to explore this world through data from the World Bank, focusing on their International Development Association (IDA) credits and grants.
 
 
-<img src="images/international-development-association-203414 - Copy.jpg"/>
+<img src="images/US_Department_of_Health_and_Human_Services_seal.svg.png"/>
 
 ### Why THIS Project?
 
