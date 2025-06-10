@@ -5,7 +5,10 @@
 When I started my project analysing healthcare data, I thought I was just crunching numbers. Little did I know, I was about to stumble into a treasure trove of insights that could shape how we understand hospital operations. Imagine revealing that patients are often discharged in less than a week or exploring the fascinating world of medical specialties and their volume of procedures. This journey turned out to be an eye-opener for me.
 
 
+
 <img src="images/Centers_for_Medicare_and_Medicaid_Services_logo.svg.png"/>
+
+
 
 ### Why THIS Project?
 
