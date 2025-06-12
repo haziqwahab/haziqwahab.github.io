@@ -5,6 +5,11 @@
 ### Learn About My Projects
 
 [101,000 Voices: What SQL Reveals About Healthcare Operations](sample_page4.md)
+<img src="images/Blue and White Modern Basketball Presentation.jpg"/>
+
+---
+
+[101,000 Voices: What SQL Reveals About Healthcare Operations](sample_page4.md)
 <img src="images/Blue and White Simple Modern Medical Presentation.jpg"/>
 
 ---
