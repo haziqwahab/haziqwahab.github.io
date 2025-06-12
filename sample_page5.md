@@ -6,7 +6,7 @@ When I started my project analysing healthcare data, I thought I was just crunch
 
 
 
-<img src="images/Centers_for_Medicare_and_Medicaid_Services_logo.svg.png"/>
+<img src="images/B Logo-NBA.png"/>
 
 
 
@@ -34,13 +34,43 @@ Through this article, you will gain insights into hospital readmission trends, u
 
 For this project, I used a dataset sourced from Kaggle, which contains information about diabetes patients from 130 US hospitals between 1999 and 2008. This dataset was perfect for my analysis as it included patient demographics, health history, hospital usage metrics, and outcomes related to readmission risk.
 
-The origin of the data can be found [here](https://www.kaggle.com/code/iabhishekofficial/prediction-on-hospital-readmission/notebook).
+The origin of the data can be found [here]([https://www.kaggle.com/code/iabhishekofficial/prediction-on-hospital-readmission/notebook](https://www.basketball-reference.com/leagues/NBA_2022_totals.html)).
 
 ### Visuals and Insights
 
 #### Average length of hospital stays
 
-<img src="images/H carbon bar chart.png"/>
-<img src="images/H bar chart.png"/>
+<img src="images/B Team 3-pt%.png"/>
 
 I showcased the average length of hospital stays . This graph illustrates that most patients leave the hospital within 7 days, with an **average of 4.4 days**, translating to an estimated cost of **$12,469.20** per patient.
+
+#### Average length of hospital stays
+
+<img src="images/B Bubble plot.png"/>
+
+I showcased the average length of hospital stays . This graph illustrates that most patients leave the hospital within 7 days, with an **average of 4.4 days**, translating to an estimated cost of **$12,469.20** per patient.
+
+#### Average length of hospital stays
+
+<img src="images/B Stacked bar.png"/>
+
+I showcased the average length of hospital stays . This graph illustrates that most patients leave the hospital within 7 days, with an **average of 4.4 days**, translating to an estimated cost of **$12,469.20** per patient.
+
+#### Average length of hospital stays
+
+<img src="images/B Stacked bar age.png"/>
+
+I showcased the average length of hospital stays . This graph illustrates that most patients leave the hospital within 7 days, with an **average of 4.4 days**, translating to an estimated cost of **$12,469.20** per patient.
+
+#### Average length of hospital stays
+
+<img src="images/B age vs pts.png"/>
+
+I showcased the average length of hospital stays . This graph illustrates that most patients leave the hospital within 7 days, with an **average of 4.4 days**, translating to an estimated cost of **$12,469.20** per patient.
+
+#### Average length of hospital stays
+
+<img src="images/B treemap.png"/>
+
+I showcased the average length of hospital stays . This graph illustrates that most patients leave the hospital within 7 days, with an **average of 4.4 days**, translating to an estimated cost of **$12,469.20** per patient.
+
