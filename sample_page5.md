@@ -1,8 +1,12 @@
 
-## 101,000 Voices: What SQL Reveals About Healthcare Operations
+## The Hidden Bias in Basketball’s Box Score
 #### Software : SQL
 
-When I started my project analysing healthcare data, I thought I was just crunching numbers. Little did I know, I was about to stumble into a treasure trove of insights that could shape how we understand hospital operations. Imagine revealing that patients are often discharged in less than a week or exploring the fascinating world of medical specialties and their volume of procedures. This journey turned out to be an eye-opener for me.
+**The original dataset can be found** [here]([[https://www.kaggle.com/code/iabhishekofficial/prediction-on-hospital-readmission/notebook](https://www.basketball-reference.com/leagues/NBA_2022_totals.html)](https://www.basketball-reference.com/leagues/NBA_2022_totals.html)).
+
+**Tabbleau dashbord** [here](https://public.tableau.com/app/profile/haziq.abdul.wahab/viz/NBAProject_17497570079520/Story1).
+
+I’ve always loved basketball, but it wasn’t until I challenged myself with a recent project that I learned just how intricate the game can be. As i can remember watching my high school team practiced, I noticed how often players would pass to each other before making a basket. It sparked a curiosity in me that led to a deep dive into NBA statistics, revealing the hidden power of teamwork in scoring.
 
 
 
@@ -12,65 +16,91 @@ When I started my project analysing healthcare data, I thought I was just crunch
 
 ### Why THIS Project?
 
-Healthcare has always held a special place in my heart. It's not just about numbers it's about people and how we can improve their lives. With a significant portion of national budgets allocated to healthcare, I felt compelled to dig deeper into hospital performance. This project was my way of contributing by studying how hospitals operate and preparing for future challenges based on solid data.
+The motivation behind this project was personal. As someone who plays basketball, I wanted to explore the dynamics of the game beyond just shooting hoops. I aimed to understand how factors like teamwork and player positions influence scoring. The uniqueness of this project lies in its focus on the connections within the game, examining how assists correlate with points scored.
 
 ### What Readers Will Gain
 
-Through this article, you will gain insights into hospital readmission trends, understand the average length of stays, and discover how different medical specialties perform. You'll also learn about patient treatment fairness across races and the relationship between the number of lab procedures and hospital stays.
+In this article, you’ll learn about the fascinating relationships that define basketball performance. From the importance of assists to the impact of age on scoring, I’ll share key insights and surprising findings that could change how you view the game.
 
 ### Key Takeaways
 
-- Most patients are discharged within an average of **4.4 days**.
+- Teamwork is essential for scoring; **more assists** lead to **more points**.
 
-- **Cardiology and related surgeries** are the most common hospital procedures.
-
-- **Race does not influence** the administration of lab procedures in hospitals.
-
-- A **higher number of lab procedures** is associated with **longer hospital stays**.
-
-- Patients prescribed **numerous medications** are **less likely to be readmitted**.
+- Most teams have 2-3 **standout players** who score the majority of points.
+  
+- Players aged **25-30** are typically at their **peak performance**.
+  
+- Point guards usually have the **highest assist numbers**, but there are exceptions.
+  
+- **Power forwards** excel at **three-point shooting**, while centers struggle in this area.
 
 ### Dataset Details
 
-For this project, I used a dataset sourced from Kaggle, which contains information about diabetes patients from 130 US hospitals between 1999 and 2008. This dataset was perfect for my analysis as it included patient demographics, health history, hospital usage metrics, and outcomes related to readmission risk.
-
-The origin of the data can be found [here]([https://www.kaggle.com/code/iabhishekofficial/prediction-on-hospital-readmission/notebook](https://www.basketball-reference.com/leagues/NBA_2022_totals.html)).
+For my analysis, I used the **2021-22 NBA Player Stats dataset**, which includes data from 605 players and records over **300,000 points** scored across **31 teams**. This dataset provided a rich source of information to explore relationships within player statistics, making it the perfect fit for my project.
 
 ### Visuals and Insights
 
-#### Average length of hospital stays
+#### Three-point Shooting Analysis
 
 <img src="images/B Team 3-pt%.png"/>
 
-I showcased the average length of hospital stays . This graph illustrates that most patients leave the hospital within 7 days, with an **average of 4.4 days**, translating to an estimated cost of **$12,469.20** per patient.
+The graph showing **three-point shooting success** across positions was eye-opening, revealing that power forwards often excel in this area, contrary to expectations.
 
-#### Average length of hospital stays
+#### Assists vs. Points Bubble Plot
 
 <img src="images/B Bubble plot.png"/>
 
-I showcased the average length of hospital stays . This graph illustrates that most patients leave the hospital within 7 days, with an **average of 4.4 days**, translating to an estimated cost of **$12,469.20** per patient.
+This visual shows the relationship between **assists and points** scored. The size of each bubble represents rebounds, with colors indicating player positions. Here, it’s evident that **point guards lead in assists** while other positions contribute too.
 
-#### Average length of hospital stays
+Another visual highlighted the centers’ **rebound dominance**, displaying **Nikola and Draymond as clear outliers**. This made me think about how studying these outliers can help players enhance their skills.
+
+#### Top Scorers by Team
 
 <img src="images/B Stacked bar.png"/>
 
-I showcased the average length of hospital stays . This graph illustrates that most patients leave the hospital within 7 days, with an **average of 4.4 days**, translating to an estimated cost of **$12,469.20** per patient.
+This stacked bar chart highlighted how 2-3 **superstars** typically **carry the scoring** load for their teams. It’s no surprise that talented players should take the shots to secure wins.
 
-#### Average length of hospital stays
+
+#### Age and Scoring Performance by team
 
 <img src="images/B Stacked bar age.png"/>
 
-I showcased the average length of hospital stays . This graph illustrates that most patients leave the hospital within 7 days, with an **average of 4.4 days**, translating to an estimated cost of **$12,469.20** per patient.
+Players aged **25-29** contribute significantly to scoring across most teams, showcasing their **prime performance** years. Meanwhile, the **under-25 group** provides an essential layer of **impact**, highlighting the potential of emerging talents. The **30-plus group** demonstrates **experience**, though their scoring contribution is generally lower.
 
-#### Average length of hospital stays
+Understanding these age-related performance trends helps teams strategize better, balancing seasoned players with rising stars for optimal results.
+
+#### Age and Scoring Performance
 
 <img src="images/B age vs pts.png"/>
 
-I showcased the average length of hospital stays . This graph illustrates that most patients leave the hospital within 7 days, with an **average of 4.4 days**, translating to an estimated cost of **$12,469.20** per patient.
+I examined how age affects player performance. While **LeBron James** continues to shine at **37**, other older players struggle to make an impact, showcasing how age can influence scoring capacity.
 
-#### Average length of hospital stays
+#### Assists by Position Treemap
 
 <img src="images/B treemap.png"/>
 
-I showcased the average length of hospital stays . This graph illustrates that most patients leave the hospital within 7 days, with an **average of 4.4 days**, translating to an estimated cost of **$12,469.20** per patient.
+This graph emphasized teamwork across all positions. What struck me was **Nikola's exceptional assist** numbers as a center, challenging common assumptions about player roles.
+
+### Main Takeaways
+
+- **Teamwork is vital**; greater assist numbers lead to higher overall scores.
+- Most teams **rely on** a few **star players** to score the bulk of their points.
+- Players **aged 25-30 tend to perform best**, while younger players often struggle.
+- **Point guards excel in assists**, yet Nikola’s performance challenges this norm.
+- **Power forwards** show strength in **three-point shooting**, whereas centers lag behind.
+
+### Conclusion and Personal Reflections
+
+This project taught me so much about basketball and data analysis. I faced challenges, especially in interpreting statistics and creating visuals, but overcoming these hurdles enriched my understanding of the game. It made me appreciate the intricacies of teamwork and how each player’s role contributes to the overall success of the team. Moving forward, I hope to continue exploring sports analytics and sharing insights with fellow basketball enthusiasts.
+
+### Call To Action
+
+I invite you to connect with me on LinkedIn to share your thoughts on basketball analytics or ask any questions about this project. Let’s engage in a conversation about the fascinating world of sports statistics!
+
+Thank you for sticking around until the final buzzer and allowing me to share my data exploration journey!
+
+
+
+
+
 
