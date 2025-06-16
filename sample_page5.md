@@ -1,6 +1,6 @@
 
 ## The Hidden Bias in Basketball’s Box Score
-#### Software : SQL
+#### Software : Tableau
 
 **The original dataset can be found** [here](https://www.basketball-reference.com/leagues/NBA_2022_totals.html).
 
