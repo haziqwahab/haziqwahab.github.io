@@ -2,7 +2,7 @@
 ## The Hidden Bias in Basketball’s Box Score
 #### Software : SQL
 
-**The original dataset can be found** [here]([[https://www.kaggle.com/code/iabhishekofficial/prediction-on-hospital-readmission/notebook](https://www.basketball-reference.com/leagues/NBA_2022_totals.html)](https://www.basketball-reference.com/leagues/NBA_2022_totals.html)).
+**The original dataset can be found** [here]([(https://www.basketball-reference.com/leagues/NBA_2022_totals.html)](https://www.basketball-reference.com/leagues/NBA_2022_totals.html)).
 
 **Tabbleau dashbord** [here](https://public.tableau.com/app/profile/haziq.abdul.wahab/viz/NBAProject_17497570079520/Story1).
 
