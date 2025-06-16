@@ -42,7 +42,7 @@ For my analysis, I used the **2021-22 NBA Player Stats dataset**, which includes
 
 #### Three-point Shooting Analysis
 
-<img src="images/B Bubble plot.png"/>
+<img src="images/B Team 3-pt%.png"/>
 
 The graph showing **three-point shooting success** across positions was eye-opening, revealing that power forwards often excel in this area, contrary to expectations.
 
