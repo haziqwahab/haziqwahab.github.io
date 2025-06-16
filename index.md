@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-[NBA]()
+[The Hidden Bias in Basketball’s Box Score](sample_page5.md)
 <img src="images/Blue and White Modern Basketball Presentation.jpg"/>
 
 ---
