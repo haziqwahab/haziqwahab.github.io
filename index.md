@@ -4,6 +4,11 @@
 
 ### Learn About My Projects
 
+[Mining Industry](sample_page6.md)
+<img src="images/Yellow and Black Modern The Mining Industry Presentation.jpg"/>
+
+---
+
 [The Hidden Bias in Basketball’s Box Score](sample_page5.md)
 <img src="images/Blue and White Modern Basketball Presentation.jpg"/>
 
