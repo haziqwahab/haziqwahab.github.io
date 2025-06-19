@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 [Mining Industry](sample_page6.md)
-<img src="images/Yellow and Black Modern The Mining Industry Presentation.jpg"/>
+<img src="images/Yellow and Black Modern The Mining Industry Presentation (1).jpg"/>
 
 ---
 
