@@ -98,15 +98,15 @@ What we’re seeing here is boxplot compares weekly Iron and Silica Concentrate 
 
 **Best Days:**
 
-**Sunday*: Highest **iron (65.18%)** and lowest **silica (2.28%)**
+Sunday: Highest **iron (65.18%)** and lowest **silica (2.28%)**
 
-**Thursday8: Most stable process (lowest variability in both iron and silica)
+Thursday: Most stable process (lowest variability in both iron and silica)
 
 **Worst Day:**
 
-**Tuesday*: Lowest **iron (64.96%)** and lowest **silica (2.28%)**
+Tuesday: Lowest **iron (64.96%)** and lowest **silica (2.28%)**
 
-**Saturday*: Highest silica **(2.41%)** and more variation
+Saturday: Highest silica **(2.41%)** and more variation
 
 **pH Stability:**
 
