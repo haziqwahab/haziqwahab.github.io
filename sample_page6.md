@@ -1,5 +1,5 @@
 
-## The Hidden Bias in Basketball’s Box Score
+## The Chemistry of Concentration: Analysing Iron, Silica, and Their Impact
 #### Software : Pyhton
 
 **The original dataset can be found** [here](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process/data).
