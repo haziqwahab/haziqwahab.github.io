@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-[The Chemistry of Concentration: Analysing Iron, Silica, and Their Impact](sample_page6.md)
+**Pyton** [The Chemistry of Concentration: Analysing Iron, Silica, and Their Impact](sample_page6.md)
 <img src="images/Yellow and Black Modern The Mining Industry Presentation (1).jpg"/>
 
 ---
