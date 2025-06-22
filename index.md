@@ -51,7 +51,7 @@
 **Excel**
  <br><br>
 [How DoorDash’s Promotions Can Turn Casual Customers into Loyal Fans](sample_page.md)
-<img src=""/>
+<img src="images/Orange Cream MInimalist.jpg"/>
 
 
 
