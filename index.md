@@ -4,6 +4,8 @@
 
 ### Learn About My Projects
 
+---
+
 **Pyton**
  <br><br>
  [The Chemistry of Concentration: Analysing Iron, Silica, and Their Impact](sample_page6.md)
