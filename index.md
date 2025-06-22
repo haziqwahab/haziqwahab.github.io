@@ -6,6 +6,13 @@
 
 <br><br>
 
+**R**
+ <br><br>
+ [Layoffd](sample_page7.md)
+<img src="images/Green and Orange Modern Bold Gradient Employee Training Presentation.jpg"/>
+
+---
+
 **Python**
  <br><br>
  [The Chemistry of Concentration: Analysing Iron, Silica, and Their Impact](sample_page6.md)
