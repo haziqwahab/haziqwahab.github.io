@@ -37,7 +37,7 @@
 **SQL**
  <br><br>
 [Unpacking IDA Loans: Insights from the World Bank Data](sample_page3.md)
-<img src="images/Blue 3D Illustration Simple Financial Planning Presentation.jpg"/>
+<img src="images/Teal and White Modern Commercial Bank Company Profile Presentation.jpg"/>
 
 ---
 
