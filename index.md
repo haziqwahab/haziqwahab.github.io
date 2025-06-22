@@ -44,7 +44,7 @@
 **Tableau**
  <br><br>
 [What Massachusetts' Education Data Tells Us About Graduation Rates](sample_page2.md)
-<img src="images/Blue and White Modern Illustrative Thesis Defense Presentation.jpg"/>
+<img src="images/Massachusetts.jpg"/>
 
 ---
 
