@@ -1,10 +1,10 @@
 ## Welcome to My Portfolio
 
-**---**
+---
 
 ### Learn About My Projects
 
----
+<br><br>
 
 **Pyton**
  <br><br>
