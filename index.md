@@ -8,7 +8,7 @@
 
 **R**
  <br><br>
- [Layoffd](sample_page7.md)
+ [Why Are Your Employees Leaving? Uncovering the Patterns Behind Attrition](sample_page7.md)
 <img src="images/Green and Orange Modern Bold Gradient Employee Training Presentation.jpg"/>
 
 ---
