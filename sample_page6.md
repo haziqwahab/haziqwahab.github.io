@@ -31,7 +31,7 @@ The dataset I worked with comes from Kaggle and focuses on a **flotation plant**
 
 My analysis began by cleaning and transforming the dataset to focus on the most relevant columns. I used **Python** to filter for essential metrics like **Iron Concentrate and pH levels**, simplifying my analysis. I was surprised to see how closely related some variables were, particularly **Amina Flow** and **Ore Pulp Density**, which had a correlation of 0.82. This strong relationship suggests they are key levers for enhancing froth stability and, ultimately, process efficiency.
 
-### Analysis Process
+### Visual and Insights
 
 <img src="images/D 5.png"/>
 
